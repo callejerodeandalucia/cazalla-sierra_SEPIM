@@ -1,30 +1,12 @@
-T铆tulo (30)
-===========
+T蚑ULO: 30 caract. m醲
 
-Callejero Tur. Cazalla Sierra
+VIVIR CAZALLA DE LA SIERRA
 
-Descripci贸n breve (80)
-======================
 
-Informaci贸n de inter茅s para visitar el municipio
+DESCRIPCI覰 BREVE: 80 caract. M醲.
 
-Descripci贸n completa (4000)
-===========================
+Gu韆 Oficial de Cazalla, con informaci髇 interesante para lugare駉s y visitantes
 
-Los romanos fundaron la localidad de Callentum que, con la llegada de los 谩rabes, pasa a llamarse Castalla. La poblaci贸n alcanza su esplendor en los siglos XVI y XVII, llegando a convertirse en residencia del rey Felipe V a principios del siglo XVIII. En una visita a Cazalla es importante no perderse la Iglesia de Nuestra Se帽ora de la Consolaci贸n, el Monasterio Cartujo, los conventos de Madre de Dios y San Francisco y el Monasterio de Santa Clara, entre otros monumentos.
+DESCRIPCI覰 COMPLETA: 4000 caract. m醲
 
-Etiquetas	
-===========
-
-Notas de versi贸n
-=================
-Versi贸n inicial
-
-****a帽adir algo aqu铆 si se publica en forma de actualizaci贸n***
-
-Sitio web
-=========
-
-Correo electr贸nico
-==================
-
+Los romanos fundaron la localidad de Callentum que, con la llegada de los 醨abes, pasa a llamarse Castalla. La poblaci髇 alcanza su esplendor en los siglos XVI y XVII, llegando a convertirse en residencia del rey Felipe V a principios del siglo XVIII. En una visita a Cazalla es importante no perderse la Iglesia de Nuestra Se駉ra de la Consolaci髇, el Monasterio Cartujo, los conventos de Madre de Dios y San Francisco y el Monasterio de Santa Clara, entre otros monumentos. 
